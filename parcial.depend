@@ -1,0 +1,245 @@
+# depslib dependency file v1.0
+1538697662 source:/home/alumno/Descargas/fede/parcial/informes.c
+	"informes.h"
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+
+1538688507 source:/home/alumno/Descargas/fede/parcial/MAQUETA.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+	"lib.h"
+
+1538688508 /home/alumno/Descargas/fede/parcial/utn.h
+
+1538688937 source:/home/alumno/Descargas/fede/parcial/utn.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+
+1538699341 source:/home/alumno/Descargas/fede/parcial/clientes.c
+	"clientes.h"
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1538699351 /home/alumno/Descargas/fede/parcial/clientes.h
+
+1538699916 source:/home/alumno/Descargas/fede/parcial/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+	"clientes.h"
+	"afiche.h"
+	"informes.h"
+
+1538699844 /home/alumno/Descargas/fede/parcial/afiche.h
+	"clientes.h"
+
+1538699921 source:/home/alumno/Descargas/fede/parcial/afiche.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"afiche.h"
+
+1538697683 /home/alumno/Descargas/fede/parcial/informes.h
+	"clientes.h"
+	"afiche.h"
+
+1539046914 source:/home/blackedhs/Programacion/parcial/parcial/afiche.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"afiche.h"
+
+1539045240 /home/blackedhs/Programacion/parcial/parcial/utn.h
+
+1539047564 /home/blackedhs/Programacion/parcial/parcial/afiche.h
+	"clientes.h"
+
+1539048676 /home/blackedhs/Programacion/parcial/parcial/clientes.h
+
+1539047615 source:/home/blackedhs/Programacion/parcial/parcial/clientes.c
+	"clientes.h"
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1539049053 source:/home/blackedhs/Programacion/parcial/parcial/informes.c
+	"informes.h"
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+
+1539048811 /home/blackedhs/Programacion/parcial/parcial/informes.h
+	"clientes.h"
+	"afiche.h"
+
+1539048900 source:/home/blackedhs/Programacion/parcial/parcial/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+	"clientes.h"
+	"afiche.h"
+	"informes.h"
+
+1538933819 source:/home/blackedhs/Programacion/parcial/parcial/MAQUETA.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+	"lib.h"
+
+1539045706 source:/home/blackedhs/Programacion/parcial/parcial/utn.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+
+1539213868 source:/home/alumno/Escritorio/fede/parcial/parcial/afiche.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"afiche.h"
+
+1539206895 /home/alumno/Escritorio/fede/parcial/parcial/utn.h
+
+1539214057 /home/alumno/Escritorio/fede/parcial/parcial/afiche.h
+	"clientes.h"
+
+1539214048 /home/alumno/Escritorio/fede/parcial/parcial/clientes.h
+
+1539213747 source:/home/alumno/Escritorio/fede/parcial/parcial/clientes.c
+	"clientes.h"
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1539214033 source:/home/alumno/Escritorio/fede/parcial/parcial/informes.c
+	"informes.h"
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+
+1539214071 /home/alumno/Escritorio/fede/parcial/parcial/informes.h
+	"clientes.h"
+	"afiche.h"
+
+1539213165 source:/home/alumno/Escritorio/fede/parcial/parcial/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+	"clientes.h"
+	"afiche.h"
+	"informes.h"
+
+1539206895 source:/home/alumno/Escritorio/fede/parcial/parcial/MAQUETA.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+	"lib.h"
+
+1539206895 source:/home/alumno/Escritorio/fede/parcial/parcial/utn.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+
+1569536745 source:c:\users\alumno\desktop\facundocabrera\parcial\parcial-master\parcial-master\parcial\afiche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"afiche.h"
+
+1569536624 c:\users\alumno\desktop\facundocabrera\parcial\parcial-master\parcial-master\parcial\utn.h
+
+1569536623 c:\users\alumno\desktop\facundocabrera\parcial\parcial-master\parcial-master\parcial\afiche.h
+	"clientes.h"
+
+1569536623 c:\users\alumno\desktop\facundocabrera\parcial\parcial-master\parcial-master\parcial\clientes.h
+
+1569536673 source:c:\users\alumno\desktop\facundocabrera\parcial\parcial-master\parcial-master\parcial\clientes.c
+	"clientes.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1569536745 source:c:\users\alumno\desktop\facundocabrera\parcial\parcial-master\parcial-master\parcial\informes.c
+	"informes.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1569536623 c:\users\alumno\desktop\facundocabrera\parcial\parcial-master\parcial-master\parcial\informes.h
+	"clientes.h"
+	"afiche.h"
+
+1569537527 source:c:\users\alumno\desktop\facundocabrera\parcial\parcial-master\parcial-master\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+	"clientes.h"
+	"afiche.h"
+	"informes.h"
+
+1569536751 source:c:\users\alumno\desktop\facundocabrera\parcial\parcial-master\parcial-master\parcial\maqueta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+	"lib.h"
+
+1569536857 source:c:\users\alumno\desktop\facundocabrera\parcial\parcial-master\parcial-master\parcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+
