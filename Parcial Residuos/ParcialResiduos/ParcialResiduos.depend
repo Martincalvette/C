@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1570753761 source:c:\users\alumno\desktop\martincalvette\parcial residuos\parcialresiduos\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+
+1570744212 c:\users\alumno\desktop\martincalvette\parcial residuos\parcialresiduos\utn.h
+
+1570750275 c:\users\alumno\desktop\martincalvette\parcial residuos\parcialresiduos\cliente.h
+
+1570753682 source:c:\users\alumno\desktop\martincalvette\parcial residuos\parcialresiduos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+	"cliente.h"
+	"residuo.h"
+
+1570753539 c:\users\alumno\desktop\martincalvette\parcial residuos\parcialresiduos\residuo.h
+	"utn.h"
+	"cliente.h"
+
+1570753511 source:c:\users\alumno\desktop\martincalvette\parcial residuos\parcialresiduos\residuo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"residuo.h"
+	"utn.h"
+
+1570744212 source:c:\users\alumno\desktop\martincalvette\parcial residuos\parcialresiduos\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+
